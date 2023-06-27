@@ -1,0 +1,18 @@
+export const pageList = [
+  "",
+  "runtime",
+  "std@0.192.0",
+  "x",
+  "manual@v1.34.3/introduction",
+  "manual@v1.34.3/basics/standard_library",
+  "deploy",
+  "deploy/docs",
+  "deploy/pricing",
+  "deploy/docs/privacy-policy",
+  "api@v1.34.3?s=BroadcastChannel",
+  "api@v1.34.3?s=Headers",
+  "benchmarks",
+  "saaskit",
+  "blog",
+  "blog/announcing-soc2-compliance",
+];

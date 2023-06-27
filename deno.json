@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "screenshot": "deno run -A ./screenshot.ts",
+    "pixelmatch": "deno run -A ./pixelmatch.ts"
+  }
+}
